@@ -6,7 +6,7 @@ Blind Quality Assessment of High Frame Rate Videos using Adaptive Space-Time Tok
 
 
 <p align="center">
-  <img src="https://github.com/Tlili-ahmed/2BiVQA/blob/master/figures/2BiVQA_overview2.drawio.png](https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/End_To_End_Model.png](https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/End_To_End_Model.png">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/End_To_End_Model.png">
 </p>
 
 
