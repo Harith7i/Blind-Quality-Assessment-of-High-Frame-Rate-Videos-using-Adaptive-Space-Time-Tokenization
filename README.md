@@ -15,13 +15,11 @@ This repository contains the code of our project [Blind Quality Assessment of Hi
 
 
   * [Requirements](#requirements)
-  * [Model Training](#model-training)
+  * [Demo](#demo)
   * [Test](#test)
       * [On LIVE HFR VQA](#a-on-LIVE-HFR-VQA)
       * [On BVI HFR VQA](#b-on-BVI-HFR-VQA)
       * [Cross Validation onHFR datasets](#b-Cross-Validation-on-HFR-datasets)
-  * [Demo](#demo)
-  * [Evaluate](#evaluate)
   * [Performance Benchmark](#performance-benchmark)
   * [References](#references)
     
@@ -35,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 
-## Model Training (optional):
+## Demo:
 
 In order to traing the model, you need to run the folowing command specify the model parameters and datasets paths.
 The datasets have been treated with care to avoid any content overlapping.
