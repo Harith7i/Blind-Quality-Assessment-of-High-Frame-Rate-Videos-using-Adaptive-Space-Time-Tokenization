@@ -58,11 +58,11 @@ In the following section, we provide two tables to resume the results on two dat
 
 |    Methods   |SROCC            | PLCC               | RMSE |
 |:------------:|:---------------------:|:-------------------:|:------------:|
-| L2VQA     | 0.9187         91714           | 5.37  |  
+| L2VQA     | 0.9187         | 0.9171           | 5.37  |  
 
 
 <p align="center">
-  <img src="https://github.com/Tlili-ahmed/BVQA/raw/master/figures/mos_KonViD-1K.png">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/scatter%20for%20LVYTHFRcc.png">
 </p>
 
 #### b-On LIVE_VQC: 
@@ -74,7 +74,7 @@ In the following section, we provide two tables to resume the results on two dat
 
 
 <p align="center">
-  <img src="https://github.com/Tlili-ahmed/BVQA/raw/master/figures/mos_LIVE.png">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/scatterbvi.png">
 </p>
 
 
