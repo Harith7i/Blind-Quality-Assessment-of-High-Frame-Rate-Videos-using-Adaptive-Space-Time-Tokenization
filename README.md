@@ -102,26 +102,6 @@ In the following section, we provide two tables to resume the results on two dat
 
 
 
-## Demo:
-
-To predict the quality of your own dataset using pre-trained model:
-
-```python
-
---add demo here
-
-```
-
-## Evaluate:
-
-To evaluate the model:
-
-Please note that your csv file should have two columns: 'Mos' and 'Predicted'.
-
-```python
-python evaluate.py  --mos_pred konvid.csv
-```
-
 
 
 ## Performance Benchmark:
