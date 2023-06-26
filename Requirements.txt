@@ -1,7 +1,7 @@
 torch
 torchvision
 torchsummary
-cv2
+OpenCV
 numpy
 os 
 argparse
