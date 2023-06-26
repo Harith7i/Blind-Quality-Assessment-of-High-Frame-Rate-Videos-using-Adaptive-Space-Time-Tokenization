@@ -43,7 +43,31 @@ To train your own model:
 
 
 ```python
-add the python command                                         
+python3 main.py [-h] [-epochs E] [-dataset_type TYPE] [-dataset_csv_path CSV]
+             [-video_path VP] [-spatial_pooling SP] [-embedding_size EMB_DIM]
+             [-weights_folder WF] [-best_score_weights BSW]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -epochs E, --e E      The total number of training epochs
+  -dataset_type TYPE, --type TYPE
+                        Set the variable to LIVE or BVI depending on your
+                        choice or training dataset
+  -dataset_csv_path CSV, --csv CSV
+                        Set the path to dataset CSV
+  -video_path VP, --vp VP
+                        Set the path to the videos directory
+  -spatial_pooling SP, --sp SP
+                        Set aptial pooling to lstm, rnn, or gru
+  -embedding_size EMB_DIM, --emb_dim EMB_DIM
+                        Set the embedding sitz (the size of the transformer
+                        token)
+  -weights_folder WF, --wf WF
+                        Set the path to the directory containing all training
+                        weights
+  -best_score_weights BSW, --bsw BSW
+                        Set the path to the .pth containtnig the best weights
+                                        
 ```                              
 
 
