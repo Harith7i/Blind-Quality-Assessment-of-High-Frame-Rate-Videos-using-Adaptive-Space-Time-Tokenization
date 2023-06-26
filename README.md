@@ -19,6 +19,7 @@ This repository contains the code of our project [Blind Quality Assessment of Hi
   * [Test](#test)
       * [On LIVE HFR VQA](#a-on-LIVE-HFR-VQA)
       * [On BVI HFR VQA](#b-on-BVI-HFR-VQA)
+      * [Cross Validation onHFR datasets](#b-Cross-Validation-on-HFR-datasets)
   * [Demo](#demo)
   * [Evaluate](#evaluate)
   * [Performance Benchmark](#performance-benchmark)
@@ -106,14 +107,21 @@ python evaluate.py  --mos_pred konvid.csv
 
 ###### LIVE HFR VQA[1]:
 
---add picture
+<p align="center">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/LIVE_results.png">
+</p>
 
 
 ###### BVI HFR VQA [2]:
 
---add picture
+<p align="center">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/BVI_results.png">
+</p>
 
-
+###### Cross Validation on HFR datasets [2]:
+<p align="center">
+  <img src="https://github.com/Harith7i/Blind-Quality-Assessment-of-High-Frame-Rate-Videos-using-Adaptive-Space-Time-Tokenization/blob/main/Figures/Cross_Validation.png">
+</p>
 
 
 
